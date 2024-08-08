@@ -12,7 +12,7 @@
 
 ## 💻 Projeto
 
-Este projeto é um desafio proposto pela empresa **[Lambda3](https://www.lambda3.com.br/)** para avaliar o desempenho e conhecimentos em front-end.
+Este projeto é um desafio proposto pela empresa **[Lambda3](https://www.lambda3.com.br/)** para avaliar o desempenho e conhecimentos em front-end. Para mais detalhes sobre o desafio acesse a [documentação](https://github.com/andregodasi/lambda3-challenge/blob/main/public/games-cup-description.pdf) e para mais detalhes sobre design acesse o [protótipo](https://www.figma.com/design/KgRImOHsrEi65W1U2QTYUw/Teste-t%C3%A9cnico%3A-Pessoa-desenvolvedora-Front-end?node-id=1-27).
 
 ## 🧪 Tecnologias
 
